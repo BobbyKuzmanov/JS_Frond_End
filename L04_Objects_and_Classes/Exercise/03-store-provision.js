@@ -33,13 +33,3 @@ storeProvision([
 // increase the quantity for the given product. You should store them into
 //  an object, and print them in the following format: (product -> quantity)
 // All of the arrays’ values will be strings.
-
-// Output:
-// Chips -> 5
-// CocaCola -> 9
-// Bananas -> 44
-// Pasta -> 11
-// Beer -> 2
-// Flour -> 44
-// Oil -> 12
-// Tomatoes -> 70
